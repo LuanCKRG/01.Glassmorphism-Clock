@@ -11,7 +11,7 @@ const clock = setInterval(
     let sec = date_now.getSeconds()
 
     let middayValue = ((hr >= 12) ? ('PM') : ('AM'))
-    const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+    const days = ['Domigo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado']
 
     day.textContent = days[date_now.getDay()]
 
