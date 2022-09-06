@@ -1,5 +1,5 @@
 # Glassmorphism Clock
  
-Um simples relógio com efeito Glassmorphism , feito com HTML, CSS e JavaScript
+A simple clock with Glassmorphism effect, made with HTML, CSS and JavaScript.
 
-Para ver o resultado, basta clicar [aqui](https://luanckrg.github.io/01.Glassmorphism-Clock/)
+To see the result, just click [here](https://luanckrg.github.io/01.Glassmorphism-Clock/)
